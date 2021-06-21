@@ -1,0 +1,44 @@
+/* Write your code here. */
+.app-Con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f1f5f8;
+}
+.bg-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 90vw;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+.heading {
+  color: #cb8805;
+  width: ;
+}
+.q-con {
+  width: 80vw;
+  border-radius: 5px;
+  border-color: #d7dae6;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  list-style:none;
+  padding: 20px;
+}
+
+.img {
+  height: 20px;
+  width: 20px;
+}
+
+.button1 {
+  background-color: transparent;
+  border-style: none;
+  cursor: pointer;
+}
